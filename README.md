@@ -1,1 +1,1 @@
-# friendly-chainsaw
+kimai2-finnish-translations
